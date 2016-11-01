@@ -1,0 +1,39 @@
+html,body {
+    height:100%;
+}
+
+header {
+        
+    display:block;
+    background:#005883;
+    padding:10px 10px;
+}
+section {
+    width: 79%;
+    background: #005883;
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top:30px;
+}
+
+aside {
+    float: right;
+    border: 1px solid red;
+    width: 19%;
+    border: 1px solid red;
+
+}
+footer {
+    position: relative;
+    margin-top: -50px;
+    height: 40px; 
+    padding:5px 0px;
+    clear: both;
+    background: #005883;
+    text-align: center;
+    color: #005883;
+}
+figure {
+    display: table; margin: 0 auto;
+}
